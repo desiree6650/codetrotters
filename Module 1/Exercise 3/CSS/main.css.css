@@ -1,0 +1,21 @@
+body  {
+    font-size: 20px;
+}
+
+
+img { 
+    width: 200px;
+}
+
+#hackerNews{
+    font-family: Helvetica;
+}
+
+#designerNews{
+    font-family: "Book Antiqua";
+    
+}
+
+#dribble{
+    font-family: "Times News Roman";
+}
